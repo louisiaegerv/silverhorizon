@@ -2,6 +2,8 @@
 
 A single-page marketing website for an AI & Automation Agency, built with React, TypeScript, and Vite.
 
+![Screenshot](https://github.com/louisiaegerv/Project-Images/blob/master/site.jpg?raw=true)
+
 ## Tech Stack
 
 - **React 19** + **TypeScript**
